@@ -1,5 +1,4 @@
 import '../../styles/Home.css'
-import mvd_logo from '../../assets/images/logos/mvd-logo.jpg';
 import { drivingModules } from '../../../public/data/menu';
 import { changeLanguage } from '../../service/features/createLanguage';
 import { useSelector,useDispatch } from 'react-redux';
@@ -16,7 +15,7 @@ const Home = () => {
         <nav>
             <div aria-label='logo' className="logo">
                 <div className="logo_img">
-                    <img src={mvd_logo} alt="MVD logo" />
+                    <img src='/images/logos/mvd-logo.jpg' alt="MVD logo" />
                 </div>
                 <div className="mvdlogo_info">
                     <h1>MVD LEADS</h1>

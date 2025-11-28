@@ -1,4 +1,3 @@
-import examImg from '../../assets/images/logos/exam.jpg'
 import { MdOutlineKeyboardArrowLeft } from "react-icons/md";
 import { useNavigate } from 'react-router-dom';
 import '../../styles/ExamConfirmation.css'
@@ -17,7 +16,7 @@ const ExamConfirmation = () => {
           </header>
           <main className='confirmationExam_main'>
             <div className="mockTestImg_container">
-                <img src={examImg} alt="exam image" />
+                <img src='/images/logos/exam.jpg' alt="exam image" />
                 <div className="mockTest_info">
                     <div className="totalQn">
                         <h2>30</h2>

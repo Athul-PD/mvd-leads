@@ -1,7 +1,4 @@
 import '../../styles/Intro.css'
-import kerala_roadSafety_logo from '../../assets/images/logos/kerala-logo.webp';
-import mvd_leads from '../../assets/images/logos/mvd-leads.jpg';
-import mvd_logo from '../../assets/images/logos/mvd-logo.jpg';
 import { useNavigate } from 'react-router-dom';
 
 const Intro = () => {
@@ -12,15 +9,15 @@ const Intro = () => {
     <main className='main'>
         <div className="top_section">
             <div className='left_logo'>
-                <img src={kerala_roadSafety_logo} alt="kerala state logo"/>
+                <img src='/images/logos/kerala-logo.webp' alt="kerala state logo"/>
             </div>
             <div className='right_logo'>
-                <img src={mvd_logo} alt="MVD logo" />
+                <img src='/images/logos/mvd-logo.jpg' alt="MVD logo" />
             </div>
         </div>
         <div className="hero_page">
             <div className="mvd_leads">
-                <img src={mvd_leads} alt="MVD Leads" />
+                <img src='/images/logos/mvd-leads.jpg' alt="MVD Leads" />
                 <p>Learner's Education and Driver's Safety</p>
             </div>
             <div className="info">
