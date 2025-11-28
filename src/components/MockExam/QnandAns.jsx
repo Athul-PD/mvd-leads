@@ -6,6 +6,7 @@ import Captcha from './Captcha'
 import { getCaptcha, setTimer } from '../../helper/helper'
 import { useNavigate } from 'react-router-dom'
 import toast from 'react-hot-toast'
+import { fixImages } from '../../helper/fixImage'
 
 const QnandAns = ({ setCurrentQn,currentQn,time,setTime }) => {
 
@@ -131,7 +132,7 @@ const QnandAns = ({ setCurrentQn,currentQn,time,setTime }) => {
             return (
                 <>
                     <p>{allQuestions[idx]?.[language === 'en' ? "question_en" : "question_ml"]}</p>
-                    {allQuestions[idx]?.image && <img src={allQuestions[idx]?.image} />}
+                    {allQuestions[idx]?.image && <img src={fixImages(allQuestions[idx]?.image)} />}
                     <ul className="answers_layout">
                         {Object.entries(allQuestions[idx]?.options || {}).map(([key,ans]) => (
                             <li key={key} className={selectedKey === key ? 'selected' : ''}>

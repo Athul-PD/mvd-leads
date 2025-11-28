@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MVD Leads - Motor Vehicle Driving Learners Practice App
 
 A comprehensive web-based learning platform for motor vehicle driving practice, designed to help learners prepare for their driving exams with interactive quizzes, traffic sign recognition, and mock exams.
@@ -183,3 +184,7 @@ For issues or questions, please check the following:
 **Happy Learning!** 🚗📚
 
 Built with ❤️ for learners preparing for their driving exams.
+=======
+# mvd-leads
+Designed to help learners prepare for their driving exams with interactive quizzes, traffic sign recognition, and mock exams.
+>>>>>>> 871c090628aaf7a28f00838094a65b721e09c590

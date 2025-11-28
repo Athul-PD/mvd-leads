@@ -2,6 +2,7 @@ import '../../styles/TrafficSigns.css'
 import { useGetSymbolsQuery } from '../../service/features/mainApi';
 import { useSelector } from 'react-redux';
 import  Skeleton  from '@mui/material/Skeleton';
+import { fixImages } from '../../helper/fixImage';
 
 const TrafficMain = ({ currentSign }) => {
 
@@ -32,7 +33,7 @@ const TrafficMain = ({ currentSign }) => {
     <>
     {filteredData.map((signs) => (
         <div className='traffic_signs_images_info' key={signs.id}>
-            <img src={signs.image} alt={signs.options.a.en} loading='lazy' onLoad={(e) => e.target.classList.add('loaded')}/>
+            <img src={fixImages(signs.image)} alt={signs.options.a.en} loading='lazy' onLoad={(e) => e.target.classList.add('loaded')}/>
             <p>{language === 'en' ? signs.options[signs.answer].en : signs.options[signs.answer].ml}</p>
         </div>
     ))}
