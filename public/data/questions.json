@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "question_en": "What does a red traffic light mean?",
+        "question_ml": "കൈക്കൂട്ട് ചുവപ്പ് പദം എന്ത് അർത്ഥംവാഗ്ദാനം ചെയ്യുന്നു?",
+        "options": {
+            "a": {
+                "en": "Stop",
+                "ml": "നിർത്തുക"
+            },
+            "b": {
+                "en": "Go faster",
+                "ml": "വേഗത്തിൽ മുന്നോട്ട് പോത്തിക്കുക"
+            },
+            "c": {
+                "en": "Proceed with caution",
+                "ml": "ശ്രദ്ധയോടെ മുന്നോട്ട് പോവുക"
+            },
+            "d": {
+                "en": "Turn left",
+                "ml": "ഇടുക്കുന്ന വശത്തേക്ക് മടിക്കുക"
+            }
+        },
+        "answer": "a"
+    },
+    {
+        "id": 2,
+        "question_en": "What should you do at a stop sign?",
+        "question_ml": "സ്റ്റോപ്പ് സൈനിൽ നിങ്ങള്‍ എന്ത് ചെയ്യണം?",
+        "options": {
+            "a": {
+                "en": "Slow down and proceed",
+                "ml": "മന്ദഗതിയിലും മുന്നോട് പോകുക"
+            },
+            "b": {
+                "en": "Stop completely",
+                "ml": "മുഴുവൻ നിർത്തുക"
+            },
+            "c": {
+                "en": "Ignore it and go",
+                "ml": "അവനെ അനുസരിക്കാതെ പോവുക"
+            },
+            "d": {
+                "en": "Only look left",
+                "ml": "വലത്തേക്കു മാത്രം നോക്കരുത്"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 3,
+        "question_en": "When should you use turn signals?",
+        "question_ml": "നിങ്ങൾ എപ്പോഴായിരിക്കുമ്പോൾ തിരിഞ്ഞ് ഉത്തരവാദിത്വം നൽകണം?",
+        "options": {
+            "a": {
+                "en": "Never",
+                "ml": "എന്തെങ്കിലും സമയത്ത്"
+            },
+            "b": {
+                "en": "Before changing lanes or turning",
+                "ml": "ലെയിനുകൾ മാറ്റുന്നതിനും മടങ്ങുന്നതിനുമുമ്പ്"
+            },
+            "c": {
+                "en": "After making a turn",
+                "ml": "മടക്കം ചെയ്ത ശേഷം"
+            },
+            "d": {
+                "en": "Only when other cars are around",
+                "ml": "മറ്റു കാറുകൾ സമീപിച്ചിരിക്കുമ്പോള്‍ മാത്രമേ"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 4,
+        "question_en": "What is the minimum age for a learner’s driving license in India?",
+        "question_ml": "ഇന്ത്യയിൽ ലേണർ ഡ്രൈവിംഗ് ലൈസന്'סിന് കുറഞ്ഞത് പ്രായം എന്താണ്?",
+        "options": {
+            "a": {
+                "en": "18 years",
+                "ml": "18 വയസ്"
+            },
+            "b": {
+                "en": "16 years",
+                "ml": "16 വയസ്"
+            },
+            "c": {
+                "en": "21 years",
+                "ml": "21 വയസ്"
+            },
+            "d": {
+                "en": "25 years",
+                "ml": "25 വയസ്"
+            }
+        },
+        "answer": "a"
+    },
+    {
+        "id": 5,
+        "question_en": "Which of the following is a road sign indicating a school zone?",
+        "question_ml": "വഴിയിലേക്കുള്ള സ്കൂൾ പ്രദേശം സൂചിപ്പിക്കുന്നൊരു സൈൻ എന്തൊക്കെ?",
+        "options": {
+            "a": {
+                "en": "A yellow sign with children",
+                "ml": "കുട്ടികൾ ഉള്ള ഒരു മഞ്ഞ സൈൻ"
+            },
+            "b": {
+                "en": "A red stop sign",
+                "ml": "ചുവപ്പ് സ്റ്റോപ്പ് സൈൻ"
+            },
+            "c": {
+                "en": "A green traffic light",
+                "ml": "മഞ്ഞ് ട്രാഫിക് ലൈറ്റ്"
+            },
+            "d": {
+                "en": "A blue information sign",
+                "ml": "നീല വിവര സൈൻ"
+            }
+        },
+        "answer": "a"
+    },
+    {
+        "id": 6,
+        "question_en": "What is the speed limit in urban areas in Kerala?",
+        "question_ml": "കേരളത്തിലെ നഗരപ്രദേശം വേഗപരിധി എന്താണ്?",
+        "options": {
+          "a": {
+                "en": "60 km/h",
+                "ml": "60 കിംമീ/മക്ഷിക്കും"
+            },
+            "b": {
+                "en": "50 km/h",
+                "ml": "50 കിംമീ/മക്ഷിക്കും"
+            },
+            "c": {
+                "en": "40 km/h",
+                "ml": "40 കിംമീ/മക്ഷിക്കും"
+            },
+            "d": {
+                "en": "30 km/h",
+                "ml": "30 കിംമീ/മക്ഷിക്കും"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 7,
+        "question_en": "What should you do if you feel drowsy while driving?",
+        "question_ml": "ഡ്രൈവിങ് ചെയ്യുമ്പോൾ ഉറക്കമുണ്ടെങ്കിൽ നിങ്ങൾ എന്ത് ചെയ്യണം?",
+        "options": {
+            "a": {
+                "en": "Use caffeine to stay awake",
+                "ml": "കരൾ നീട്ടി ഉണരാൻ കാഫീന് ഉപയോഗിക്കുക"
+            },
+            "b": {
+                "en": "Pull over and rest",
+                "ml": "ഒരിടത്ത് നിർത്തികൊണ്ട് വിശ്രമിക്കുക"
+            },
+            "c": {
+                "en": "Keep driving",
+                "ml": "ഡ്രൈവിങ് തുടരുക"
+            },
+            "d": {
+                "en": "Open the windows",
+                "ml": "ജാലകങ്ങൾ തുറക്കുക"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 8,
+        "question_en": "What does a yield sign mean?",
+        "question_ml": "യീൽഡ് സൈൻ എന്തിന് സാധിക്കുന്നു?",
+        "options": {
+            "a": {
+                "en": "Yield to traffic in the roundabout",
+                "ml": "മുടിപ്പുറത്തെ വാഹനങ്ങൾക്ക് വഴി നൽകുക"
+            },
+            "b": {
+                "en": "Stop and wait",
+                "ml": "നിർത്തി കാത്തിരിക്കുക"
+            },
+            "c": {
+                "en": "Proceed without stopping",
+                "ml": "നിർത്താൻ ആവശ്യമില്ല"
+            },
+            "d": {
+                "en": "Give way to other vehicles",
+                "ml": "മറ്റു വാഹനംക്കു വഴി നൽകുക"
+            }
+        },
+        "answer": "d"
+    },
+    {
+        "id": 9,
+        "question_en": "What is the purpose of headlights at night?",
+        "question_ml": "രാത്രിയിൽ ഹെഡ്‌ലൈറ്റുകൾക്കു എന്താണ് ഉദ്ദേശം?",
+        "options": {
+            "a": {
+                "en": "Illuminate the road ahead",
+                "ml": "അതിനു മുമ്പുള്ള വഴിയെ പ്രകാശിപ്പിക്കുക"
+            },
+            "b": {
+                "en": "Make it visible for others",
+                "ml": "മറ്റ് വാഹനങ്ങൾക്കു കാണിക്കുന്നതിനായി"
+            },
+            "c": {
+                "en": "To show off",
+                "ml": "പ്രദർശിപ്പിച്ചതിനാൽ"
+            },
+            "d": {
+                "en": "Only for aesthetic purposes",
+                "ml": "അനുകൂലമായ യാത്രയ്ക്ക് മാത്രമേ"
+            }
+        },
+        "answer": "a"
+    },
+    {
+        "id": 10,
+        "question_en": "What should you do when it rains?",
+        "question_ml": "മഴയെക്കുറിച്ച് നിങ്ങൾ എന്ത് ചെയ്യണം?",
+        "options": {
+            "a": {
+                "en": "Speed up",
+                "ml": "വേഗത്തിൽ ചെയ്തിട്ടുള്ളത്"
+            },
+            "b": {
+                "en": "Reduce your speed",
+                "ml": "നിങ്ങളുടെ വേഗം കുറയ്ക്കുക"
+            },
+            "c": {
+                "en": "Drive with high beams on",
+                "ml": "ഉയരമുള്ള ഗോത്രങ്ങളെ കൊണ്ട് ഡ്രൈാഫ് ചെയ്യുക"
+            },
+            "d": {
+                "en": "Ignore the weather",
+                "ml": "കാലാവസ്ഥയെ വെച്ച് മാറും"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 11,
+        "question_en": "What is the correct way to handle a skid?",
+        "question_ml": "സ്കിഡ് കൈകാര്യം ചെയ്യുന്നതിന് ശരിയായ വഴി എന്താണ്?",
+        "options": {
+            "a": {
+                "en": "Brake hard",
+                "ml": "കൺ കുറിക്കാൻ"
+            },
+            "b": {
+              "en": "Turn the wheel in the opposite direction",
+                "ml": "വിപരീത ദിശയിൽ ചെറിയും"
+            },
+            "c": {
+                "en": "Steer in the direction of the skid",
+                "ml": "സ്കിഡിന്റെ ദിശയിലേക്ക് തിരിക്കുക"
+            },
+            "d": {
+                "en": "Accelerate",
+                "ml": "അതിർത്തിയിൽ കാണാൻ വേഗത്തിലാകും"
+            }
+        },
+        "answer": "c"
+    },
+    {
+        "id": 12,
+        "question_en": "What should you do if another driver is tailgating you?",
+        "question_ml": "മറ്റൊരു ഡ്രൈവരെ നിങ്ങള്‍ ഏറ്റെടുത്താൽ നിങ്ങള്‍ എന്ത് ചെയ്യണം?",
+        "options": {
+            "a": {
+                "en": "Slow down suddenly",
+                "ml": "തീവ്രതയിൽ വേഗം കുറക്കുക"
+            },
+            "b": {
+                "en": "Change lanes safely and let them pass",
+                "ml": "സുരക്ഷിതമായി മാറി അവരെ കടന്നുപോകാൻ അനുവദിക്കുക"
+            },
+            "c": {
+                "en": "Speed up",
+                "ml": "വേഗത്തിൽ ചെയ്യുക"
+            },
+            "d": {
+                "en": "Brake hard",
+                "ml": "പ്രശ്നത്തിൽ"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 13,
+        "question_en": "What does a broken yellow line mean?",
+        "question_ml": "ഒരു പൊട്ടിയ മഞ്ഞ വരയാണോ?",
+        "options": {
+            "a": {
+                "en": "No passing allowed",
+                "ml": "കയറുക അനുവദനീയമല്ല"
+            },
+            "b": {
+                "en": "Passing is allowed",
+                "ml": "കയറുക അനുവദനീയമാണ്"
+            },
+            "c": {
+                "en": "Only emergency vehicles can cross",
+                "ml": "ആപത്തിൽ വീശുക"
+            },
+            "d": {
+                "en": "Road works ahead",
+                "ml": "വഴിയുപകരികള്‍ മുന്നോട്ട വന്നു"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 14,
+        "question_en": "What should you do if your tire blows out?",
+        "question_ml": "നിങ്ങളുടെ ടയർ പൊട്ടിയാൽ നിങ്ങൾ എന്ത് ചെയ്യണം?",
+        "options": {
+            "a": {
+                "en": "Steer straight and pull over",
+                "ml": "കുറിയേയും തുറക്കുക"
+            },
+            "b": {
+                "en": "Accelerate to regain control",
+                "ml": "വേഗം കൊടുക്കുക"
+            },
+            "c": {
+                "en": "Turn sharply towards the shoulder",
+                "ml": "ശ്രദ്ദയോടെ തിരിക്കുക"
+            },
+            "d": {
+                "en": "Brake immediately",
+                "ml": "തീ്യം തന്നെ"
+            }
+        },
+        "answer": "a"
+    },
+    {
+        "id": 15,
+        "question_en": "What does a circular green road sign mean?",
+        "question_ml": "ഒരു പരപ്പു പാടത്തുള്ള സെയിൻ എന്ത്?",
+        "options": {
+            "a": {
+                "en": "Road ends",
+                "ml": "വഴി ബാഡിലൈൽ വേണം"
+            },
+            "b": {
+                "en": "Go left",
+                "ml": "കൂടാതെ പോവുക"
+            },
+            "c": {
+                "en": "Proceed straight ahead",
+                "ml": "സമാനമായി മുന്നോട്ട് പോകുക"
+            },
+            "d": {
+                "en": "Go right",
+                "ml": "നിങ്ങളുടെ ദിശയിൽ)"
+            }
+        },
+        "answer": "c"
+    },
+    {
+        "id": 16,
+        "question_en": "What is the correct way to park your vehicle?",
+        "question_ml": "നിങ്ങളുടെ വാഹനമാണ് പാർക്ക് ചെയ്യുന്നതിന് ശരിയായ മാർഗം എന്താണ്?",
+        "options": {
+            "a": {
+                "en": "In front of a fire hydrant",
+                "ml": "അഗ്‌നിമൂടിൽ മുന്നുകൊണ്ട്"
+            },
+            "b": {
+                "en": "In a designated parking space",
+                "ml": "ദിശാബോധിത പാർക്കിംഗ് സ്ഥലത്ത്"
+            },
+            "c": {
+              "en": "Any available space",
+                "ml": "എന്തെങ്കിലും ലഭ്യമായ സ്ഥലത്ത്"
+            },
+            "d": {
+                "en": "On the sidewalk",
+                "ml": "പാതയിലേയ്ക്കും"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 17,
+        "question_en": "What does a no U-turn sign indicate?",
+        "question_ml": "യു-മടവും ഒരു സൈൻ നൽകുന്ന ഒരു ഉപാധികളുണ്ട്?",
+        "options": {
+            "a": {
+                "en": "You can only turn left",
+                "ml": "നിങ്ങൾക്ക് വെറും ഇടത്തേക്ക് മടിക്കാൻ കഴിയും"
+            },
+            "b": {
+                "en": "U-turns are not allowed",
+                "ml": "യു-മടികൾ അനുവദനീയമല്ല"
+            },
+            "c": {
+                "en": "You can only turn right",
+                "ml": "നിങ്ങൾക്ക് വെറും വലത്തേക്ക് മടിക്കാൻ കഴിയും"
+            },
+            "d": {
+                "en": "No stopping",
+                "ml": "നിർത്താൻ അനുവദിക്കില്ല"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 18,
+        "question_en": "What should you do when approaching a roundabout?",
+        "question_ml": "നിങ്ങൾ ഒരു മുടിപ്പുറത്ത് വന്നാൽ നിങ്ങൾ എന്ത് ചെയ്യണം?",
+        "options": {
+            "a": {
+                "en": "Change lanes safely",
+                "ml": "സുരക്ഷിതമായി മാറാന്‍"
+            },
+            "b": {
+                "en": "Yield to traffic in the roundabout",
+                "ml": "മുടിപ്പുറത്തെ വാഹനങ്ങൾക്ക് വഴി നൽകുക"
+            },
+            "c": {
+                "en": "Speed up to enter",
+                "ml": "ചേരാൻ വേഗത്തിൽ"
+            },
+            "d": {
+                "en": "Use your horn to alert others",
+                "ml": "മറ്റുള്ളവരെ അറിയിക്കുക"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 19,
+        "question_en": "What does a speed bump signal?",
+        "question_ml": "വേഗം കുടിച്ചത് എന്ത്?",
+        "options": {
+            "a": {
+                "en": "Slow down",
+                "ml": "മന്ദഗതിയിലും പോകുക"
+            },
+            "b": {
+                "en": "Detour ahead",
+                "ml": "കൂടുന്ന സമയത്ത്"
+            },
+            "c": {
+                "en": "Speed up",
+                "ml": "വേഗം ആവശ്യമുണ്ട്"
+            },
+            "d": {
+                "en": "No stopping",
+                "ml": "നിയമഗതിയിൽ വളരുന്നത്"
+            }
+        },
+        "answer": "a"
+    },
+    {
+        "id": 20,
+        "question_en": "What is the first thing to do in case of a vehicle breakdown?",
+        "question_ml": "വാഹനം ബ്രേക്ക് ഡाऊൺ ചെയ്താൽ ആദ്യം ചെയ്യുന്നത് എന്താണ്?",
+        "options": {
+            "a": {
+                "en": "Move to a safe spot and turn on hazard lights",
+                "ml": "സുരക്ഷിതമായ സ്ഥലം മാറുക, ഹസാർഡ് ലൈറ്റ് ഓൺ ചെയ്യുക"
+            },
+            "b": {
+                "en": "Call a friend for help",
+                "ml": "സഹായത്തിനായി ഒരു സുഹൃത്ത് വിളിക്കുക"
+            },
+            "c": {
+                "en": "Try to repair it yourself",
+                "ml": "സ്വയം മര്ക്കുക"
+            },
+            "d": {
+                "en": "Leave your vehicle and walk away",
+                "ml": "നിങ്ങളുടെ വാഹനത്തിൽ നിന്ന് ഇറങ്ങുക"
+            }
+        },
+        "answer": "a"
+    },
+    {
+        "id": 21,
+        "question_en": "What should you do if you miss your exit on the highway?",
+        "question_ml": "നിങ്ങൾ ഹൈവെയിൽ നിങ്ങളുടെ എക്സിറ്റ് നഷ്ടമായാൽ നിങ്ങൾ എന്ത് ചെയ്യണം?",
+        "options": {
+            "a": {
+                "en": "Go to the next exit",
+                "ml": "അടുത്ത എക്സിറ്റിലേക്ക് പോണം"
+            },
+            "b": {
+                "en": "Make a U-turn at the next opportunity",
+                "ml": "അടുത്ത അവസരത്തിൽ യു-മടങ്ങുക"
+            },
+            "c": {
+                "en": "Reverse back to your exit",
+                "ml": "നിങ്ങളുടെ എക്സിറ്റിലേക്കു തിരിച്ചറിക്കുക"
+            },
+            "d": {
+                "en": "Stop and ask for directions",
+                "ml": "നിയമവികൃതമായി നിർത്തുക"
+            }
+        },
+        "answer": "a"
+    },
+    {
+        "id": 22,
+        "question_en": "What is a safe following distance in good weather conditions?",
+        "question_ml": "മാതൃകയിലെ മികച്ച കാലാവസ്ഥയില്‍ സുരക്ഷിതമായ പാലന ദൂരമെന്താണ്?",
+        "options": {
+            "a": {
+                "en": "One car length",
+                "ml": "ഒരു കാറിന്റെ നീളം"
+            },
+            "b": {
+                "en": "Two seconds",
+                "ml": "രണ്ട് സെക്കന്റ്"
+            },
+            "c": {
+                "en": "Three seconds",
+                "ml": "മൂന്ന് സെക്കന്റ്"
+            },
+            "d": {
+                "en": "Four seconds",
+                "ml": "നാല് സെക്കണ്ട്"
+            }
+        },
+        "answer": "c"
+    },
+    {
+        "id": 23,
+        "question_en": "What should you do when you see an emergency vehicle with flashing lights?",
+        "question_ml": "അടിയന്തര വാഹനത്തിൽ മിനുക്കുന്നത് കാണുമ്പോൾ നിങ്ങൾ എന്ത് ചെയ്യണം?",
+        "options": {
+            "a": {
+                "en": "Speed up and pass them",
+                "ml": "വേഗം നൽകുകയും കടന്നുപോകുകയും ചെയ്യുക"
+            },
+            "b": {
+                "en": "Pull over to the side and stop",
+                "ml": "വശത്തിലേക്ക് വലിക്കുക, നിർത്തുക"
+            },
+            "c": {
+                "en": "Continue driving normally",
+                "ml": "സാധാരണ ഡ്രൈവിങ് തുടരുക"
+            },
+            "d": {
+                "en": "Honk your horn to alert other drivers",
+                "ml": "ഉത്തരം തരാനായി ശബ്്ദം വിളിക്കാൻ"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 24,
+        "question_en": "What is the purpose of the speed limit signs?",
+        "question_ml": "വേഗ പരിധി സൈനുകളുടെ ഉദ്ദേശം എന്താണ്?",
+        "options": {
+            "a": {
+                "en": "To keep traffic moving smoothly",
+                "ml": "അന്തരീക്ഷത്തിനോടെ മാറ്റങ്ങൾ മനസ്സിലാക്കാൻ"
+            },
+            "b": {
+                "en": "To promote safety",
+                "ml": "സുരക്ഷ промോട് ചെയ്യുന്നതിനാൽ"
+            },
+            "c": {
+                "en": "To prevent accidents",
+                "ml": "ദുരൂഹത ചെയ്യാനും"
+            },
+            "d": {
+                "en": "All of the above",
+                "ml": "മുകളിലുള്ള എല്ലാം"
+            }
+        },
+        "answer": "d"
+    },
+    {
+        "id": 25,
+        "question_en": "What does a no entry sign indicate?",
+        "question_ml": "നിൽക്കാത്തത് സൈൻ എന്താണ്?",
+        "options": {
+            "a": {
+                "en": "Traffic must turn around",
+                "ml": "വാഹനമാകുന്നത് തോമസുറി"
+            },
+            "b": {
+                "en": "No vehicle should enter",
+                "ml": "വാഹനം പ്രവേശിക്കുന്നത് പോലും ചെയ്യേണ്ടതില്ല"
+            },
+            "c": {
+                "en": "Only for pedestrians",
+                "ml": "മാതൃദൃശ്യങ്ങൾക്കുള്ളത് മാത്രമേ"
+            },
+            "d": {
+                "en": "Bicycles are allowed",
+                "ml": "ബൈക്കുകൾക്ക് മന്ദഗതിയിലാണ്"
+                }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 26,
+        "question_en": "What should you do if your vehicle begins to hydroplane?",
+        "question_ml": "നിങ്ങളുടെ വാഹനം ഹൈഡ്രോ പ്ളെയ്ൻ ചെയ്യാൻ തുടങ്ങി എങ്ങനെ ചെയ്യണം?",
+        "options": {
+            "a": {
+                "en": "Accelerate to regain traction",
+                "ml": "നിങ്ങളുടെ സ്ട്രെംഗ്തിന് കൂടുതൽ എടുക്കുക"
+            },
+            "b": {
+                "en": "Steer straight and ease off the gas",
+                "ml": "നിത്യത്തിൽ നേരെ നോക്കിക്കുക"
+            },
+            "c": {
+                "en": "Brake hard to stop",
+                "ml": "കഠിനമായത് തടയാൻ"
+            },
+            "d": {
+                "en": "Turn sharply to regain control",
+                "ml": "വാപസമാക്കാൻ പോത്തുക"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 27,
+        "question_en": "What does it mean if a police officer signals for you to pull over?",
+        "question_ml": "ഒരു പൊലീസുകാരൻ നിങ്ങളെ വശത്തിലേക്ക് പോകാൻ ആണെങ്കിൽ എന്താണ് അർത്ഥം?",
+        "options": {
+            "a": {
+                "en": "You should ignore them",
+                "ml": "അവരെ അവഗണിക്കുകയോ"
+            },
+            "b": {
+                "en": "You are being stopped for a reason",
+                "ml": "നിങ്ങളുടെ കൊവിഡ് ശാസ്ത്രങ്ങൾ"
+            },
+            "c": {
+                "en": "You should speed up",
+                "ml": "നിങ്ങൾക്ക് വേഗം നൽകണം"
+            },
+            "d": {
+                "en": "You can drive away",
+                "ml": "നിങ്ങൾക്ക് വിട്ടുകൂടും"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 28,
+        "question_en": "What should you do if your brakes fail while driving?",
+        "question_ml": "നിങ്ങളുടെ ബേക്ക്‌സുകൾ പൊട്ടിയാൽ നിങ്ങൾ എങ്ങനെ ചെയ്യണം?",
+        "options": {
+            "a": {
+                "en": "Pump the brakes gently",
+                "ml": "ഷെയ്ക്ക്ചു പരിശോധനകൾ"
+            },
+            "b": {
+                "en": "Shift to neutral and try to stop ",
+                "ml": "നിലയ്ക്കായി തിരിയുക"
+            },
+            "c": {
+                "en": "Steer into a ditch to stop",
+                "ml": "ആകസ്മികമായി യന്ത്രം കാണിക്കുക"
+            },
+            "d": {
+                "en": "Sound your horn continuously",
+                "ml": "ഉച്ചഭാഷയിൽ ശബ്്ദം അനുഭവപ്പെടുത്തുക"
+            }
+        },
+        "answer": "c"
+    },
+    {
+        "id": 29,
+        "question_en": "What should you do if you are involved in an accident?",
+        "question_ml": "നിങ്ങളുടെ അപകടത്തിൽ നിങ്ങൾ ഉണ്ടെങ്കിൽ നിങ്ങൾ എന്ത് ചെയ്യണം?",
+        "options": {
+            "a": {
+                "en": "Call the police and check for injuries",
+                "ml": "പോലീസ് വിളിക്കുക, പരിക്കുകൾക്കായി പരിശോധിക്കുക"
+            },
+            "b": {
+                "en": "Leave the scene immediately",
+                "ml": "നിലവിൽ তুলാ ഭവനം മാറ്റുകയും"
+            },
+            "c": {
+                "en": "Argue with the other driver",
+                "ml": "മറ്റുവിശേഷിക്കപ്പെട്ടു"
+            },
+            "d": {
+                "en": "Try to negotiate at the scene",
+                "ml": "നിലയിൽ തന്നിക്കുകയാണ്"
+            }
+        },
+        "answer": "a"
+    },
+    {
+        "id": 30,
+        "question_en": "What is the correct action to take when driving on a winding road?",
+        "question_ml": "ഒരു വലയങ്കെച്ച വഴിയിൽ ഡ്രൈവിങ് ചെയ്താൽ ശരിയായ പ്രവർത്തനം എന്താണ്?",
+        "options": {
+            "a": {
+                "en": "Reduce speed and stay alert",
+                "ml": "നിലവിലുള്ള വേഗം കുറച്ച് ശ്രദ്ധിക്കുക"
+            },
+            "b": {
+                "en": "Accelerate through the curves",
+                "ml": "മുൻകൈ വാങ്ങുക"
+            },
+            "c": {
+              "en": "Ignore road signs",
+                "ml": "വഴി സൈനുകൾ"
+            },
+            "d": {
+                "en": "Maintain the same speed",
+                "ml": "മാതൃകയിലും വേഗമായും"
+            }
+        },
+        "answer": "a"
+    },
+    {
+        "id": 31,
+        "question_en": "Which of the following indicates safe driving?",
+        "question_ml": "നിങ്ങളുടെ സാമാന്യ ഡ്രൈവിങിന് എങ്ങനെ ധരിപ്പിക്കും?",
+        "options": {
+            "a": {
+                "en": "Using a mobile phone while driving",
+                "ml": "ഡ്രൈവിങ് ചെയ്യുമ്പോൾ ഫോണിൽ പോം"
+            },
+            "b": {
+                "en": "Wearing a seatbelt",
+                "ml": "സീറ്റ്ബെൽട്ട് ധരിക്കുക"
+            },
+            "c": {
+                "en": "Disregarding traffic laws",
+                "ml": "ട്രാഫിക് നിയമങ്ങൾ കണക്കിലെടുത്തില്ല"
+            },
+            "d": {
+                "en": "Driving under the influence",
+                "ml": "താത്കാലികപ്രശ്നത്തിനും"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 32,
+        "question_en": "What is the first step to take when you are about to start your vehicle?",
+        "question_ml": "നിങ്ങൾ നിങ്ങളുടെ വാഹനം ആരംഭിക്കാനാണ് ഒന്ന് എടുക്കുന്നതിന് ആദ്യം ചെയ്യേണ്ടത് എന്താണ്?",
+        "options": {
+            "a": {
+                "en": "Check your mirrors",
+                "ml": "നിങ്ങളുടെ മിറർ പരിശോധിക്കുക"
+            },
+            "b": {
+                "en": "Fasten your seatbelt",
+                "ml": "സീറ്റ്ബെൽട്ട് കടന്നുചുളകുക"
+            },
+            "c": {
+                "en": "Start the engine",
+                "ml": "എഞ്ചിനിന്റെ ആരംഭം"
+            },
+            "d": {
+                "en": "Look around for pedestrians",
+                "ml": "മാർക്കേണ്ട ഇവ അടയാളങ്ങളും"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 33,
+        "question_en": "What does a pedestrian crossing sign indicate?",
+        "question_ml": "ഒരു നടന്റെ കടന്ന് പോകുന്ന സൈൻ എന്ത്.",
+        "options": {
+            "a": {
+                "en": "Stop for pedestrians",
+                "ml": "നടക്കാൻ തടയുക"
+            },
+            "b": {
+                "en": "No entry",
+                "ml": "പാർക്കിംഗ് പാടിയിടൂ"
+            },
+            "c": {
+                "en": "Speed up",
+                "ml": "വേഗം നൽകുക"
+            },
+            "d": {
+                "en": "Yield to vehicles",
+                "ml": "വാഹനങ്ങൾക്ക് വഴി നൽകുക"
+            }
+        },
+        "answer": "a"
+    },
+    {
+        "id": 34,
+        "question_en": "When is it necessary to turn on your headlights?",
+        "question_ml": "സന്ധ്യാ സമയത്ത് ഹെഡ് ലൈട്ടുകളേ ഇരിക്കുന്നു?",
+        "options": {
+            "a": {
+                "en": "During the day under good weather",
+                "ml": "ഊരയിലും מיט വേഗ ലൈട്ടുകളിലേക്ക്"
+            },
+            "b": {
+                "en": "At night or in low visibility conditions",
+                "ml": "രാത്രി അല്ലെങ്കിൽ മിണ്ടിയില്ലാതായപ്പോഴുള്ളത്"
+            },
+            "c": {
+                "en": "Only in fog",
+                "ml": "പാടം മാത്രമാണ്"
+            },
+            "d": {
+                "en": "When parked",
+                "ml": "നിലയിൽ വെച്ചപ്പോൾ"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 35,
+        "question_en": "What does it mean if a light turns on in your dashboard?",
+        "question_ml": "നിങ്ങളുടെ ഡാഷ്ബോർഡില്‍ ഒരു ലൈറ്റ് ഓൺ ആണെങ്കിൽ എന്തു അർത്ഥം?",
+        "options": {
+            "a": {
+                "en": "All systems are functioning properly",
+                "ml": "അവിടെ സമാനമാണ്"
+            },
+            "b": {
+                "en": "There may be a problem",
+                "ml": "അവിടെ ആശങ്ക ഇല്ല"
+            },
+            "c": {
+                "en": "You need to refuel",
+                "ml": "നിങ്ങൾക്ക് നാഷ്ടു!"
+            },
+            "d": {
+                "en": "Nothing, it is normal",
+                "ml": "എന്തുമില്ല, സാധാരണമാണ്"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 36,
+        "question_en": "What should you do if you see a pedestrian crossing the road?",
+        "question_ml": "നിങ്ങൾ റോഡ് കടന്ന് പോകുന്ന ഒരു നടനെ കാണുമ്പോളെ നിങ്ങൾ എന്ത് ചെയ്യണം?",
+        "options": {
+            "a": {
+                "en": "Honk your horn to alert them",
+                "ml": "അവരെ അറിയിക്കുന്നതിന് ഹോൺ ഉപയോഗിക്കുക"
+            },
+            "b": {
+                "en": "Stop and let them cross",
+                "ml": "തി൪ത്ത് തരണം"
+            },
+            "c": {
+                "en": "Speed up to pass them quickly",
+                "ml": "വേഗത്തിലേക്ക് കടന്നുപോകുക"
+            },
+            "d": {
+                "en": "Ignore them and continue driving",
+                "ml": "അവരെ അവഗണിക്കാം"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 37,
+        "question_en": "What does a flashing yellow light mean?",
+        "question_ml": "ഒരു മിനുക്കിയ മഞ്ഞ് ലൈറ്റ് എന്ത് അർത്ഥം?",
+        "options": {
+            "a": {
+                "en": "Proceed with caution",
+                "ml": "ശ്രദ്ധയോടെ മുന്നോട്ട് പോകുക"
+            },
+            "b": {
+                "en": "Stop immediately",
+                "ml": "തത്സമയം നിർത്തുക"
+            },
+            "c": {
+                "en": "Speed up",
+                "ml": "വേഗത്തിൽ കടന്നു പോവുക"
+            },
+            "d": {
+                "en": "No stopping allowed",
+                "ml": "നിർത്താൻ അനുവദനീയമല്ല"
+            }
+        },
+        "answer": "a"
+    },
+    {
+        "id": 38,
+        "question_en": "When should you use your high beams?",
+        "question_ml": "നിങ്ങൾ എപ്പോൾ ഉയരത്തിലുള്ള ബീം ഉപയോഗിക്കണം?",
+        "options": {
+            "a": {
+                "en": "In well-lit areas",
+                "ml": "നിപുണമായി പ്രകാശമുള്ള ഇടങ്ങളിൽ"
+            },
+            "b": {
+                "en": "On dark roads without oncoming traffic",
+                "ml": "വഴികൾക്കിടയിൽ ഇരുട്ടിലുള്ള"
+            },
+            "c": {
+                "en": "During the daytime",
+                "ml": "ദിവസപ്രെശമേ"
+            },
+            "d": {
+                "en": "In foggy conditions",
+                "ml": "പാട വൈശാല്യമുള്ള"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 39,
+        "question_en": "What does a white stop line indicate?",
+        "question_ml": "ഒരു വെള്ള സ്റ്റോപ്പ് ലൈനിന്റെ അർത്ഥം?",
+        "options": {
+            "a": {
+                "en": "Stop your vehicle before crossing the line",
+                "ml": "ലൈനുകൾ കടക്കുന്നതിന് മുമ്പ് വാഹനം നിർത്തുക"
+            },
+            "b": {
+                "en": "Speed up to beat the red light",
+                "ml": "ചുവപ്പ് ലൈറ്റിന് ആസ്പദമായ വേഗമായി മുന്നോട്ട് പോവുക"
+            },
+            "c": {
+                "en": "You can park your vehicle here",
+                "ml": "നിങ്ങളുടെ വാഹനമിടാൻ ഇടുന്നത്"
+            },
+            "d": {
+                "en": "No stopping is allowed",
+                "ml": "നിർത്താൻ അനുവദനീയമല്ല"
+            }
+        },
+        "answer": "a"
+    },
+    {
+        "id": 40,
+        "question_en": "What should you do when you see a construction zone?",
+        "question_ml": "നിങ്ങൾ ഒരു കണർവീശുന്നത് കണ്ടാൽ നിങ്ങൾ എന്ത് ചെയ്യണം?",
+        "options": {
+            "a": {
+                "en": "Speed up to get through quickly",
+                "ml": "പ്രത്യേകമായി വേഗത്തിലേക്ക് കടന്നു പോവുക"
+            },
+            "b": {
+                "en": "Follow posted detour signs",
+                "ml": "പ്രദർശിപ്പിച്ച ഇടത്തരം അടയാളങ്ങൾ പിന്തുടരുക"
+            },
+            "c": {
+                "en": "Ignore the signs",
+                "ml": "സൈനുകൾ അവഗണിക്കുക"
+            },
+            "d": {
+                "en": "Park your vehicle at the site",
+                "ml": "വിടെ നിങ്ങളുടെ വാഹനം പാർക്ക് ചെയ്യുക"
+                }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 41,
+        "question_en": "What does it mean when your vehicle's oil light comes on?",
+        "question_ml": "നിങ്ങളുടെ വാഹനത്തിന്റെ എണ്ണത്തിന്റെ ശേഖരം എത്രകൂടിയാൽ എത്തുക?",
+        "options": {
+            "a": {
+                "en": "Everything is fine",
+                "ml": "എല്ലായ്പ്പാടും സുഖമാണ്"
+            },
+            "b": {
+                "en": "You need to check your oil level",
+                "ml": "നിങ്ങളുടെ എണ്ണത്തിന്റെ സ്ഥാനം പരിശോധിക്കുക"
+            },
+            "c": {
+                "en": "You should accelerate immediately",
+                "ml": "തത്സമയം വേഗത്തിലേക്ക് മാറുക"
+            },
+            "d": {
+                "en": "Your engine is overheating",
+                "ml": "നിങ്ങളുടെ എഞ്ചിൻ താപത്തിൽ"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 42,
+        "question_en": "What is the first action to take if you are about to hit another vehicle?",
+        "question_ml": "നിങ്ങളുടെ വാഹനം മറ്റൊരു വാഹനം മിടിഞ്ഞാൽ എങ്ങനെ ചെയ്യണം?",
+        "options": {
+            "a": {
+                "en": "Steer away from the other vehicle",
+                "ml": "മറ്റു വാഹനത്തിൽ നിന്നും സെർഗർ സ്ഥാപിക്കുക"
+            },
+            "b": {
+                "en": "Close your eyes",
+                "ml": "മുക്കി ഔസുചെയ്യുക"
+            },
+            "c": {
+                "en": "Accelerate to avoid impact",
+                "ml": "തലക്കു വേഗം നൽകുക"
+            },
+            "d": {
+                "en": "Brake hard and hold on",
+                "ml": "ഊന്നുനിർത്തണം"
+            }
+        },
+        "answer": "a"
+    },
+    {
+        "id": 43,
+        "question_en": "What is the main purpose of seat belts?",
+        "question_ml": "സീറ്റ്ബെൽട്ടുകളുടെ പ്രധാന ഉദ്ദേശം എന്താണ്?",
+        "options": {
+            "a": {
+                "en": "To keep passengers comfortable",
+                "ml": "വ്യക്തികളെ അനുസരിച്ച്"
+            },
+            "b": {
+                "en": "To prevent injuries during an accident",
+                "ml": "അപകടത്തിനിടെ പരിക്കുകൾ തടയാൻ"
+            },
+            "c": {
+                "en": "To make the vehicle look nice",
+                "ml": "വാഹനം ഉൽക്കുഴലുള്ളതായി"
+            },
+            "d": {
+                "en": "To keep your clothes clean",
+                "ml": "വസ്ത്രങ്ങൾ വൃത്തിയാക്കാൻ"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 44,
+        "question_en": "What does a speed limit of 30 km/h indicate?",
+        "question_ml": "30 കിമീ/മക്ഷിക്കുന്നു വേഗ പരിധി എന്ത്?",
+        "options": {
+            "a": {
+                "en": "You must not exceed this speed",
+                "ml": "ഈ വേഗം കരിക്കരുത്"
+            },
+            "b": {
+                "en": "Speed limit is optional",
+                "ml": "വേഗം പരിധി നിർബന്ധമായും"
+            },
+            "c": {
+                "en": "It is safe to go faster",
+                "ml": "വേഗത്തിലേക്ക് പോകുന്നത് സുരക്ഷിതമാണ്"
+            },
+            "d": {
+                "en": "You can drive at any speed",
+                "ml": "നിങ്ങൾക്ക് എങ്ങനെ വേഗത്തിൽ പോകാവുന്നില്ല"
+            }
+        },
+        "answer": "a"
+    },
+    {
+        "id": 45,
+        "question_en": "What is the correct way to signal a right turn?",
+        "question_ml": "ഉണ്ണത്തിൽ പോകുമ്പോൾ എങ്ങനെ സിഗ്നൽ നൽകണം?",
+        "options": {
+            "a": {
+                "en": "Extend your left arm downward",
+                "ml": "നിങ്ങളുടെ ഇടത് കൈ താഴേക്ക് നീട്ടുക"
+            },
+            "b": {
+                "en": "Use your right turn signal",
+                "ml": "നിങ്ങളുടെ വലതുനிலை സിഗ്നൽ അവതരിപ്പിക്കുക"
+            },
+            "c": {
+                "en": "Wave your arm out the window",
+                "ml": "ജാലകം പുറത്തു കൈ തരണം"
+                },
+            "d": {
+                "en": "Do nothing; other drivers will know",
+                "ml": "എതെങ്കിലും ചെയ്യണ്ട; മറ്റുള്ളവരുടെ ഡ്രൈവറുകൾ അറിയേണ്ടത്"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 46,
+        "question_en": "What should you do if you are driving in fog?",
+        "question_ml": "നിങ്ങൾ പാടത്തിൽ ഡ്രൈവിങ് ചെയ്താൽ എങ്ങനെ ചെയ്യണം?",
+        "options": {
+            "a": {
+                "en": "Use your high beams",
+                "ml": "ഉയരമുള്ള ബീം ഉപയോഗിക്കുക"
+            },
+            "b": {
+                "en": "Drive with your headlights on low beam",
+                "ml": "നിങ്ങളുടെ ഹെഡ്‌ലൈറ്റുകൾ താഴ്ന്ന ബീമിലും നിൽക്കുക"
+            },
+            "c": {
+                "en": "Speed up to get through quickly",
+                "ml": "വേഗം നൽകുക"
+            },
+            "d": {
+                "en": "Turn on your hazard lights",
+                "ml": "ഹസാർഡ് ലൈറ്റുകൾ ഓൺ ചെയ്യണം"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 47,
+        "question_en": "What is the correct procedure for merging onto a highway?",
+        "question_ml": "ഹൈവെയിലേക്ക് ചേർന്നത് ശരിയായ പ്രക്രിയ എന്താണ്?",
+        "options": {
+            "a": {
+                "en": "Increase speed and force your way in",
+                "ml": "വേഗം വർദ്ധിപ്പിക്കുക"
+            },
+            "b": {
+                "en": "Yield to traffic already on the highway",
+                "ml": "ഹൈവേയിൽ ഇതിനിടെ അമിതമായ കാർ"
+            },
+            "c": {
+                "en": "Stop before merging",
+                "ml": "ചേരുന്നതിനു മുമ്പ് നിർത്തുക"
+            },
+            "d": {
+                "en": "Merge without checking for cars",
+                "ml": "കാറുകൾ പരിശോധിക്കാതെ ചേർക്കുക"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 48,
+        "question_en": "What should you do if you see a school bus with its stop sign extended?",
+        "question_ml": "നിങ്ങൾ സ്‌കൂൾ ബസിന് സ്‌താപിച്ചിരിക്കുന്നതുപോലെ കണ്ടാൽ നിങ്ങള്‍ എന്തു ചെയ്യണം?",
+        "options": {
+            "a": {
+                "en": "Slow down and pass cautiously",
+                "ml": "മന്ദഗതിയിലേക്കു നീങ്ങുക"
+            },
+            "b": {
+                "en": "Stop and wait until the sign is retracted",
+                "ml": "നിങ്ങളുടെ സിഗ്നലിങ്ങൽ"
+            },
+            "c": {
+                "en": "Honk your horn to alert the driver",
+                "ml": "ഡ്രൈവർ കാണിക്കുന്നതിന് ഹോൺ ഉപയോഗിക്കുക"
+            },
+            "d": {
+                "en": "Speed up to get past quickly",
+                "ml": "വേഗത്തിലേക്ക് കടക്കുക"
+            }
+        },
+        "answer": "b"
+    },
+    {
+        "id": 49,
+        "question_en": "What is the proper action to take if you see a tire blowout?",
+        "question_ml": "നിങ്ങൾ ടയറുകൾ വീഴുമ്പോൾ എങ്ങനെ അനുസരിക്കണം?",
+        "options": {
+            "a": {
+                "en": "Steer straight and slow down gradually",
+                "ml": "വഴികൾ മുതൽ തികച്ചും അവസാനിപ്പിക്കുക"
+            },
+            "b": {
+                "en": "Immediate hard braking",
+                "ml": "തളർച്ചയുടെ തിരഞ്ഞെടുക്കൽ"
+            },
+            "c": {
+                "en": "Accelerate to regain control",
+                "ml": "ഭേദപ്പെടുത്തി പിടിക്കുക"
+            },
+            "d": {
+                "en": "Turn sharply while accelerating",
+                "ml": "ഉയരമുള്ള വേഗത്തിലേക്ക്"
+            }
+        },
+        "answer": "a"
+    },
+    {
+        "id": 50,
+        "question_en": "What should you do before changing lanes?",
+        "question_ml": "ലെയിനുകൾ മാറ്റാൻ മുമ്പ് നിങ്ങളുടെ ചെയ്യേണ്ടതെന്താണ്?",
+        "options": {
+            "a": {
+                "en": "Signal and check your mirrors",
+                "ml": "കാർ സിഗ്നൽ നൽകുക"
+                },
+            "b": {
+                "en": "Just change lanes without signaling",
+                "ml": "കൂടാതെ മാറ്റണം"
+            },
+            "c": {
+                "en": "Speed up to get ahead",
+                "ml": "മുൻകൂർ വേഗത്തിൽ"
+            },
+            "d": {
+                "en": "Only look in the rearview mirror",
+                "ml": "മുമ്പനോട്ടത്തെ നോക്കുക"
+            }
+        },
+        "answer": "a"
+    }
+]

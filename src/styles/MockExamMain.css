@@ -1,0 +1,106 @@
+.questions_answers_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mockExam_header{
+    padding: 10px 50px;
+}
+.timer_qn_number_container{
+    box-shadow: 0 0 2px black;
+    padding: 10px 15px;
+    border-radius: 999px;
+}
+.timer_qn_number_container .timer_qn_number_container_sub_container{
+    display: flex;
+    justify-content: space-between;
+}
+.timer{
+    display: flex;
+    align-items: center;
+}
+.qn_ans_layout{
+    box-shadow: 0 0 5px black;
+    padding: 30px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+.qn_ans_layout p{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.qn_ans_layout img{
+    width: 150px;
+    height: 120px;
+    object-fit: cover;
+    padding-top: 15px;
+}
+.answers_layout{
+    width: 100%;
+    display: grid;
+    gap: 1rem;
+    padding: 20px 0;
+}
+.answers_layout li{
+    list-style: none;
+}
+.answers_layout li button{
+    background-color: #D5F0F5;
+    color: black;
+    cursor: pointer;
+}
+.qn_ans_layout button{
+    margin: 0;
+    padding: 15px;
+    background-color: var(--button-bg);
+    cursor: pointer;
+}
+.quit_confirm_container{
+    background-color: var(--button-bg);
+    color: white;
+    width: 400px;
+    height: 150px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+    z-index: 10000;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+}
+.yes_or_no{
+    display: flex;
+    align-items: center;
+    gap: 1.4rem;
+}
+.yes_or_no p:first-child{
+    padding: 8px 25px;
+    border-radius: 999px;
+    background-color: green;
+}
+.yes_or_no p:last-child{
+    background-color: red;
+    padding: 8px 25px;
+    border-radius: 999px;
+}
+
+@media(max-width: 900px){
+    .mockExam_header{
+        padding: 10px;
+    }
+    .qn_ans_layout{
+        width: 100%;
+        padding: 10px;
+        box-shadow: 0 0 2px black;
+    }
+    .quit_confirm_container{
+        width: 90%;
+    }
+}

@@ -1,0 +1,36 @@
+.concession_card_main{
+    padding: 15px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.concession_card_main form{
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    box-shadow: 0 0 3px black;
+    padding: 30px;
+}
+.concession_card_main form .input_field{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.concession_card_main form .input_field label{
+    font-size: 0.7rem;
+}
+.concession_card_main form .input_field input{
+    padding: 15px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid black;
+}
+.concession_card_main form button{
+    margin-top: 20px;
+}
+@media(max-width: 900px){
+    .concession_card_main{
+        padding: 10px;
+    }
+}

@@ -1,0 +1,116 @@
+.traffic_signs_header{
+    padding-top: 18px;
+}
+.traffic_signs_header nav{
+    display: flex;
+    gap: 0.5rem;
+    justify-content: flex-start;
+    align-items: center;
+}
+.traffic_signs_header nav p{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.traffic_signs_header .left_arrow{
+    font-size: 3rem;
+    cursor: pointer;
+}
+/* Main... */
+.traffic_signs_main{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1rem;
+    padding: 10px 50px;
+}
+.traffic_signs_images_info{
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    box-shadow: -1px 3px 4px black, 1px 0 4px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.traffic_signs_images_info img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    background-color: #494949;
+    filter: blur(2px);
+    transition: filter 0.3s ease;
+}
+.traffic_signs_images_info img.loaded{
+    filter: blur(0);
+}
+/* Footer... */
+.footer_signs{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 76px;
+    padding: 10px 50px;
+    background: var(--button-bg);
+    color: gray;
+    box-shadow: 0 -2px 8px rgba(0,0,0,0.08);
+    z-index: 50;
+}
+.footer_signs .footer_icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 0.4rem;
+    cursor: pointer;
+}
+.footer_signs .footer_icons p{
+    font-size: 0.7rem;
+    font-weight: 500;
+}
+.footer_signs .footer_icons.active{
+    color: #ffffff;
+}
+.footer_signs .footer_icons.active svg{
+    color: #ffffff;
+}
+.traffic_signs_main{
+    padding-bottom: 96px; 
+}
+
+@media(max-width: 580px){
+    .traffic_signs_header{
+        padding: 10px 0;
+    }
+    .traffic_signs_main{
+    grid-template-columns: repeat(1,1fr);
+    gap: 0.5rem;
+    padding: 10px;
+}
+.footer_signs{
+    padding: 0 10px;
+}
+.traffic_signs_main{
+    padding-bottom: 90px;
+}
+.traffic_signs_images_info img{
+    width: 100px;
+    height: 100px;
+}
+.traffic_signs_header nav p{
+    font-size: 1.4rem;
+}
+}
+
+@media(min-width: 581px) and (max-width: 940px){
+    .traffic_signs_main{
+    grid-template-columns: repeat(2,1fr);
+    gap: 0.5rem;
+    padding: 10px;
+}
+.footer_signs{
+    padding: 0 10px;
+}
+}

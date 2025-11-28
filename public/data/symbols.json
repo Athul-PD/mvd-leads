@@ -1,0 +1,926 @@
+[
+  {
+    "id": 1,
+    "category": "infomatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Hospital", "ml": "ഹോസ്പിറ്റൽ" },
+      "b": { "en": "Parking", "ml": "പാർക്കിംഗ്" },
+      "c": { "en": "Restaurant", "ml": "റെസ്റ്റോറന്റ്" },
+      "d": { "en": "Hotel", "ml": "ഹോട്ടൽ" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/infomatory-signs/Parking.jpg"
+  },
+  {
+    "id": 2,
+    "category": "infomatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Bicycle parking", "ml": "സൈക്കിൾ പാർക്കിംഗ്" },
+      "b": { "en": "Airport", "ml": "എയർപോർട്ട്" },
+      "c": { "en": "Petrol pump", "ml": "പെട്രോൾ പമ്പ്" },
+      "d": { "en": "Telephone", "ml": "ടെലിഫോൺ" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/infomatory-signs/Bicycle Parking Sign.jpg"
+  },
+  {
+    "id": 3,
+    "category": "infomatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "National Highway", "ml": "നാഷണൽ ഹൈവേ" },
+      "b": { "en": "Parking for scooters", "ml": "സ്കൂട്ടർ പാർക്കിംഗ്" },
+      "c": { "en": "First Aid Center", "ml": "ഫസ്റ്റ് എയ്ഡ് സെന്റർ" },
+      "d": { "en": "Disabled people", "ml": "പ്രവൃത്തി പരിമിതികൾ ഉള്ളവർ" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/infomatory-signs/Scooter Parking Sign - 12 × 18″ - _063″ White Rust-Free Aluminum.jpg"
+  },
+  {
+    "id": 4,
+    "category": "infomatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Disabled people", "ml": "പ്രവൃത്തി പരിമിതികൾ ഉള്ളവർ" },
+      "b": { "en": "Hotel", "ml": "ഹോട്ടൽ" },
+      "c": { "en": "Restaurant", "ml": "റെസ്റ്റോറന്റ്" },
+      "d": { "en": "Airport", "ml": "എയർപോർട്ട്" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/infomatory-signs/disabled-people.jpg"
+  },
+  {
+    "id": 5,
+    "category": "infomatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Asian Highway", "ml": "ഏഷ്യൻ ഹൈവേ" },
+      "b": { "en": "Telephone", "ml": "ടെലിഫോൺ" },
+      "c": { "en": "Petrol pump", "ml": "പെട്രോൾ പമ്പ്" },
+      "d": { "en": "Hospital", "ml": "ഹോസ്പിറ്റൽ" }
+    },
+    "answer": "d",
+    "image": "../src/assets/images/infomatory-signs/Señal hospital.jpg"
+  },
+  {
+    "id": 6,
+    "category": "infomatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Restaurant", "ml": "റെസ്റ്റോറന്റ്" },
+      "b": { "en": "First Aid Center", "ml": "ഫസ്റ്റ് എയ്ഡ് സെന്റർ" },
+      "c": { "en": "Hotel", "ml": "ഹോട്ടൽ" },
+      "d": { "en": "Telephone", "ml": "ടെലിഫോൺ" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/infomatory-signs/First Aid station.jpg"
+  },
+  {
+    "id": 7,
+    "category": "infomatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Telephone", "ml": "ടെലിഫോൺ" },
+      "b": { "en": "Parking", "ml": "പാർക്കിംഗ്" },
+      "c": { "en": "Hospital", "ml": "ഹോസ്പിറ്റൽ" },
+      "d": { "en": "Petrol pump", "ml": "പെട്രോൾ പമ്പ്" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/infomatory-signs/Telephone booth.jpg"
+  },
+  {
+    "id": 8,
+    "category": "infomatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Petrol pump", "ml": "പെട്രോൾ പമ്പ്" },
+      "b": { "en": "Airport", "ml": "എയർപോർട്ട്" },
+      "c": { "en": "Restaurant", "ml": "റെസ്റ്റോറന്റ്" },
+      "d": { "en": "Bicycle parking", "ml": "സൈക്കിൾ പാർക്കിംഗ്" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/infomatory-signs/petrol-pump.jpg"
+  },
+  {
+    "id": 9,
+    "category": "infomatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Restaurant", "ml": "റെസ്റ്റോറന്റ്" },
+      "b": { "en": "Hotel", "ml": "ഹോട്ടൽ" },
+      "c": { "en": "Parking", "ml": "പാർക്കിംഗ്" },
+      "d": { "en": "First Aid Center", "ml": "ഫസ്റ്റ് എയ്ഡ് സെന്റർ" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/infomatory-signs/hotel.jpg"
+  },
+  {
+    "id": 10,
+    "category": "infomatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Disabled people", "ml": "പ്രവൃത്തി പരിമിതികൾ ഉള്ളവർ" },
+      "b": { "en": "Restaurant", "ml": "റെസ്റ്റോറന്റ്" },
+      "c": { "en": "Hotel", "ml": "ഹോട്ടൽ" },
+      "d": { "en": "Telephone", "ml": "ടെലിഫോൺ" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/infomatory-signs/restaurant.jpg"
+  },
+  {
+    "id": 11,
+    "category": "infomatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Asian Highway", "ml": "ഏഷ്യൻ ഹൈവേ" },
+      "b": { "en": "Airport", "ml": "എയർപോർട്ട്" },
+      "c": { "en": "National Highway", "ml": "നാഷണൽ ഹൈവേ" },
+      "d": { "en": "Petrol pump", "ml": "പെട്രോൾ പമ്പ്" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/infomatory-signs/Airplane _ Airport Sign Sticker.jpg"
+  },
+  {
+    "id": 12,
+    "category": "infomatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "National Highway", "ml": "നാഷണൽ ഹൈവേ" },
+      "b": { "en": "Airport", "ml": "എയർപോർട്ട്" },
+      "c": { "en": "Asian Highway", "ml": "ഏഷ്യൻ ഹൈവേ" },
+      "d": { "en": "Hospital", "ml": "ഹോസ്പിറ്റൽ" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/infomatory-signs/NH.jpg"
+  },
+  {
+    "id": 13,
+    "category": "infomatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Airport", "ml": "എയർപോർട്ട്" },
+      "b": { "en": "Asian Highway", "ml": "ഏഷ്യൻ ഹൈവേ" },
+      "c": { "en": "National Highway", "ml": "നാഷണൽ ഹൈവേ" },
+      "d": { "en": "Petrol pump", "ml": "പെട്രോൾ പമ്പ്" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/infomatory-signs/Asian Highway 1 _ India National Highway 44 Sign Sticker.jpg"
+  },
+  {
+    "id": 14,
+    "category": "mandatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Stop", "ml": "നില്ക്കുക" },
+      "b": { "en": "Stop", "ml": "നില്ക്കുക" },
+      "c": { "en": "No entry", "ml": "നൽകരുത്" },
+      "d": { "en": "One-way traffic", "ml": "ഒറ്റവഴി ട്രാഫിക്" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/mandatory/stop.jpg"
+  },
+  {
+    "id": 15,
+    "category": "mandatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Give way", "ml": "വഴി കൊടുക്കുക" },
+      "b": { "en": "No entry", "ml": "നൽകരുത്" },
+      "c": { "en": "Stop", "ml": "നില്ക്കുക" },
+      "d": { "en": "No u-turn", "ml": "യു-ടേൺ അനുവദിക്കരുത്" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/mandatory/Give way to all drivers_.jpg"
+  },
+  {
+    "id": 16,
+    "category": "mandatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "No entry", "ml": "നൽകരുത്" },
+      "b": { "en": "Height limit", "ml": "ഉയര പരിധി" },
+      "c": { "en": "No right turn", "ml": "വലത്തോട്ട് തിരിയരുത്" },
+      "d": { "en": "Bus stop", "ml": "ബസ് സ്റ്റോപ്പ്" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/mandatory/No Entry Symbol - Free vector graphics on Pixabay.jpg"
+  },
+  {
+    "id": 17,
+    "category": "mandatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "One-way traffic", "ml": "ഒറ്റവഴി ട്രാഫിക്" },
+      "b": { "en": "No entry for cycles", "ml": "സൈക്കിൾ പ്രവേശനം നിരോധിച്ചു" },
+      "c": { "en": "No entry for trucks", "ml": "ട്രക്കുകൾക്ക് പ്രവേശനം നിരോധിച്ചു" },
+      "d": { "en": "No u-turn", "ml": "യു-ടേൺ അനുവദിക്കരുത്" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/mandatory/One way traffic.jpg"
+  },
+  {
+    "id": 18,
+    "category": "mandatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "No entry for cycles", "ml": "സൈക്കിൾ പ്രവേശനം നിരോധിച്ചു" },
+      "b": { "en": "No entry for motor vehicles", "ml": "മോട്ടോർ വാഹനങ്ങൾക്ക് പ്രവേശനം നിരോധിച്ചു" },
+      "c": { "en": "Maximum speed limit (50 km/h)", "ml": "പരമാവധി വേഗ പരിധി 50 km/h" },
+      "d": { "en": "Height limit", "ml": "ഉയര പരിധി" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/mandatory/No entry for bicycles.jpg"
+  },
+  {
+    "id": 19,
+    "category": "mandatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "No entry for trucks", "ml": "ട്രക്കുകൾക്ക് പ്രവേശനം നിരോധിച്ചു" },
+      "b": { "en": "Horn prohibited", "ml": "ഹോർൺ നിരോധിച്ചു" },
+      "c": { "en": "Sound horn", "ml": "ഹോർൺ ഉപയോഗിക്കുക" },
+      "d": { "en": "Bus stop", "ml": "ബസ് സ്റ്റോപ്പ്" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/mandatory/No entry for trucks.jpg"
+  },
+  {
+    "id": 20,
+    "category": "mandatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "No entry for pedestrians", "ml": "പാതയാത്രക്കാർക്ക് പ്രവേശനം നിരോധിച്ചു" },
+      "b": { "en": "No overtaking", "ml": "ഒവർടേക്കിംഗ് നിരോധിച്ചു" },
+      "c": { "en": "No entry for motor vehicles", "ml": "മോട്ടോർ വാഹനങ്ങൾക്ക് പ്രവേശനം നിരോധിച്ചു" },
+      "d": { "en": "No u-turn", "ml": "യു-ടേൺ അനുവദിക്കരുത്" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/mandatory/no entry for pedestrains.jpg"
+    },
+  {
+    "id": 21,
+    "category": "mandatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "No entry for motor vehicles", "ml": "മോട്ടോർ വാഹനങ്ങൾക്ക് പ്രവേശനം നിരോധിച്ചു" },
+      "b": { "en": "Maximum speed limit (50 km/h)", "ml": "പരമാവധി വേഗ പരിധി 50 km/h" },
+      "c": { "en": "No right turn", "ml": "വലത്തോട്ട് തിരിയരുത്" },
+      "d": { "en": "Stop", "ml": "നില്ക്കുക" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/mandatory/no entry for motor vehcles.jpg"
+  },
+  {
+    "id": 22,
+    "category": "mandatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Height limit", "ml": "ഉയര പരിധി" },
+      "b": { "en": "Sound horn", "ml": "ഹോർൺ ഉപയോഗിക്കുക" },
+      "c": { "en": "Bus stop", "ml": "ബസ് സ്റ്റോപ്പ്" },
+      "d": { "en": "No entry for cycles", "ml": "സൈക്കിൾ പ്രവേശനം നിരോധിച്ചു" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/mandatory/Height Limits.jpg"
+  },
+  {
+    "id": 23,
+    "category": "mandatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "No right turn", "ml": "വലത്തോട്ട് തിരിയരുത്" },
+      "b": { "en": "No u-turn", "ml": "യു-ടേൺ അനുവദിക്കരുത്" },
+      "c": { "en": "No overtaking", "ml": "ഒവർടേക്കിംഗ് നിരോധിച്ചു" },
+      "d": { "en": "Horn prohibited", "ml": "ഹോർൺ നിരോധിച്ചു" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/mandatory/no right turn.jpg"
+  },
+  {
+    "id": 24,
+    "category": "mandatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "No overtaking", "ml": "ഒവർടേക്കിംഗ് നിരോധിച്ചു" },
+      "b": { "en": "No u-turn", "ml": "യു-ടേൺ അനുവദിക്കരുത്" },
+      "c": { "en": "Bus stop", "ml": "ബസ് സ്റ്റോപ്പ്" },
+      "d": { "en": "Stop", "ml": "നില്ക്കുക" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/mandatory/No Overtaking PNG Images,  No, Overtake, Scenic Icon PNG Transparent Background - Pngtree.jpg"
+  },
+  {
+    "id": 25,
+    "category": "mandatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "No u-turn", "ml": "യു-ടേൺ അനുവദിക്കരുത്" },
+      "b": { "en": "Maximum speed limit (50 km/h)", "ml": "പരമാവധി വേഗ പരിധി 50 km/h" },
+      "c": { "en": "Horn prohibited", "ml": "ഹോർൺ നിരോധിച്ചു" },
+      "d": { "en": "Sound horn", "ml": "ഹോർൺ ഉപയോഗിക്കുക" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/mandatory/No U-Turn Right Symbol Aluminum Composite Sign.jpg"
+  },
+  {
+    "id": 26,
+    "category": "mandatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Maximum speed limit (50 km/h)", "ml": "പരമാവധി വേഗ പരിധി 50 km/h" },
+      "b": { "en": "Bus stop", "ml": "ബസ് സ്റ്റോപ്പ്" },
+      "c": { "en": "Sound horn", "ml": "ഹോർൺ ഉപയോഗിക്കുക" },
+      "d": { "en": "No entry for pedestrains", "ml": "പാതയാത്രക്കാർക്ക് പ്രവേശനം നിരോധിച്ചു" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/mandatory/50.jpg"
+  },
+  {
+    "id": 27,
+    "category": "mandatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Horn prohibited", "ml": "ഹോർൺ നിരോധിച്ചു" },
+      "b": { "en": "Sound horn", "ml": "ഹോർൺ ഉപയോഗിക്കുക" },
+      "c": { "en": "Stop", "ml": "നില്ക്കുക" },
+      "d": { "en": "No right turn", "ml": "വലത്തോട്ട് തിരിയരുത്" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/mandatory/no horn.jpg"
+    },
+  {
+    "id": 1000001,
+    "category": "mandatory",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Bus stop", "ml": "ബസ് സ്റ്റോപ്പ്" },
+      "b": { "en": "Sound horn", "ml": "ഹോർൺ ഉപയോഗിക്കുക" },
+      "c": { "en": "No overtaking", "ml": "ഒവർടേക്കിംഗ് നിരോധിച്ചു" },
+      "d": { "en": "Stop", "ml": "നില്ക്കുക" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/mandatory/bus stop.jpg"
+  },
+  {
+    "id": 28,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Left hand curve", "ml": "ഇടവശം വളവ്" },
+      "b": { "en": "Right hand curve", "ml": "വലതുവശം വളവ്" },
+      "c": { "en": "Steep descent", "ml": "പ്രവൃത്തിയിൽ കുത്തനെ ഇറക്കു" },
+      "d": { "en": "Narrow road", "ml": "സൂക്ഷ്മമായ റോഡ്" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/cautionary/left hand curve.jpg"
+  },
+  {
+    "id": 29,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Right hand curve", "ml": "വലതുവശം വളവ്" },
+      "b": { "en": "Left hair pin bend", "ml": "ഇടത്തിൻ ഹെയർ പിന്‍ വളവ്" },
+      "c": { "en": "Slippery road", "ml": "പിശുകൻ റോഡ്" },
+      "d": { "en": "Loose gravel", "ml": "പൊട്ടൻ വെള്ളം" }
+    },
+    "answer": "c",
+    "image": "../src/assets/images/cautionary/right hand curve.jpg"
+  },
+  {
+    "id": 30,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Left hair pin bend", "ml": "ഇടത്തിൻ ഹെയർ പിന്‍ വളവ്" },
+      "b": { "en": "Right hair pin bend", "ml": "വലത്തിൻ ഹെയർ പിന്‍ വളവ്" },
+      "c": { "en": "Left reversed bend", "ml": "ഇടത്തിൻ തിരിഞ്ഞ വളവ്" },
+      "d": { "en": "Right reversed bend", "ml": "വലത്തിൻ തിരിഞ്ഞ വളവ്" }
+    },
+    "answer": "d",
+    "image": "../src/assets/images/cautionary/left hair bend.jpg"
+  },
+  {
+    "id": 31,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Right hair pin bend", "ml": "വലത്തിൻ ഹെയർ പിന്‍ വളവ്" },
+      "b": { "en": "Steep descent", "ml": "പ്രവൃത്തിയിൽ കുത്തനെ ഇറക്കു" },
+      "c": { "en": "Narrow road", "ml": "സൂക്ഷ്മമായ റോഡ്" },
+      "d": { "en": "Narrow bridge", "ml": "സൂക്ഷ്മമായ പാലം" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/cautionary/right hair bend.jpg"
+  },
+  {
+    "id": 32,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Left reversed bend", "ml": "ഇടത്തിൻ തിരിഞ്ഞ വളവ്" },
+      "b": { "en": "Right reversed bend", "ml": "വലത്തിൻ തിരിഞ്ഞ വളവ്" },
+      "c": { "en": "Steep descent", "ml": "പ്രവൃത്തിയിൽ കുത്തനെ ഇറക്കു" },
+      "d": { "en": "Hump or uneven road", "ml": "അസമതല റോഡ്" }
+    },
+    "answer": "c",
+    "image": "../src/assets/images/cautionary/left reverse bend.gif"
+  },
+  {
+    "id": 33,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Right reversed bend", "ml": "വലത്തിൻ തിരിഞ്ഞ വളവ്" },
+      "b": { "en": "Steep descent", "ml": "പ്രവൃത്തിയിൽ കുത്തനെ ഇറക്കു" },
+      "c": { "en": "Narrow road", "ml": "സൂക്ഷ്മമായ റോഡ്" },
+      "d": { "en": "Narrow bridge", "ml": "സൂക്ഷ്മമായ പാലം" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/cautionary/rightreverse bend.jpg"
+  },
+  {
+    "id": 34,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Steep descent", "ml": "പ്രവൃത്തിയിൽ കുത്തനെ ഇറക്കു" },
+      "b": { "en": "Narrow road", "ml": "സൂക്ഷ്മമായ റോഡ്" },
+      "c": { "en": "Narrow bridge", "ml": "സൂക്ഷ്മമായ പാലം" },
+      "d": { "en": "Hump or uneven road", "ml": "അസമതല റോഡ്" }
+    },
+    "answer": "d",
+    "image": "../src/assets/images/cautionary/Steep descent.jpg"
+  },
+  {
+    "id": 35,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Narrow road", "ml": "സൂക്ഷ്മമായ റോഡ്" },
+      "b": { "en": "Narrow bridge", "ml": "സൂക്ഷ്മമായ പാലം" },
+      "c": { "en": "Hump or uneven road", "ml": "അസമതല റോഡ്" },
+      "d": { "en": "Slippery road", "ml": "പിശുകൻ റോഡ്" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/cautionary/narrow road.jpg"
+  },
+  {
+    "id": 36,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Narrow bridge", "ml": "സൂക്ഷ്മമായ പാലം" },
+      "b": { "en": "Hump or uneven road", "ml": "അസമതല റോഡ്" },
+      "c": { "en": "Slippery road", "ml": "പിശുകൻ റോഡ്" },
+      "d": { "en": "Loose gravel", "ml": "പൊട്ടൻ വെള്ളം" }
+    },
+    "answer": "c",
+    "image": "../src/assets/images/cautionary/narrow bridge.jpg"
+  },
+  {
+    "id": 37,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Hump or uneven road", "ml": "അസമതല റോഡ്" },
+      "b": { "en": "Slippery road", "ml": "പിശുകൻ റോഡ്" },
+      "c": { "en": "Loose gravel", "ml": "പൊട്ടൻ വെള്ളം" },
+      "d": { "en": "Falling rocks", "ml": "റോക്ക് ഫാൾ" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/cautionary/Uneven Road.jpg"
+  },
+  {
+    "id": 38,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Slippery road", "ml": "പിശുകൻ റോഡ്" },
+      "b": { "en": "Loose gravel", "ml": "പൊട്ടൻ വെള്ളം" },
+      "c": { "en": "Falling rocks", "ml": "റോക്ക് ഫാൾ" },
+      "d": { "en": "Pedestrian crossing", "ml": "പെഡസ്ട്രിയൻ ക്രോസിംഗ്" }
+    },
+    "answer": "c",
+    "image": "../src/assets/images/cautionary/slippery road.jpg"
+  },
+  {
+    "id": 39,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Loose gravel", "ml": "പൊട്ടൻ വെള്ളം" },
+      "b": { "en": "Falling rocks", "ml": "റോക്ക് ഫാൾ" },
+      "c": { "en": "Pedestrian crossing", "ml": "പെഡസ്ട്രിയൻ ക്രോസിംഗ്" },
+      "d": { "en": "School ahead", "ml": "സ്കൂൾ മുമ്പിൽ" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/cautionary/loose gravel.jpg"
+  },
+  {
+    "id": 40,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Falling rocks", "ml": "റോക്ക് ഫാൾ" },
+      "b": { "en": "Pedestrian crossing", "ml": "പെഡസ്ട്രിയൻ ക്രോസിംഗ്" },
+      "c": { "en": "School ahead", "ml": "സ്കൂൾ മുമ്പിൽ" },
+      "d": { "en": "Cattle", "ml": "പശു" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/cautionary/Rock Fall (From Left) Warning Symbol Sign  - 18″ Square - _080″ Engineering Grade Reflective Aluminum.jpg"
+  },
+  {
+    "id": 41,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Pedestrian crossing", "ml": "പെഡസ്ട്രിയൻ ക്രോസിംഗ്" },
+      "b": { "en": "School ahead", "ml": "സ്കൂൾ മുമ്പിൽ" },
+      "c": { "en": "Cattle", "ml": "പശു" },
+      "d": { "en": "Road works", "ml": "റോഡ് വർക്ക്സ്" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/cautionary/pedestrain crossing.jpg"
+  },
+  {
+    "id": 42,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "School ahead", "ml": "സ്കൂൾ മുമ്പിൽ" },
+      "b": { "en": "Cattle", "ml": "പശു" },
+      "c": { "en": "Road works", "ml": "റോഡ് വർക്ക്സ്" },
+      "d": { "en": "Traffic signals", "ml": "ട്രാഫിക് സിഗ്നൽസ്" }
+    },
+    "answer": "d",
+    "image": "../src/assets/images/cautionary/school ahead.jpg"
+  },
+  {
+    "id": 43,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Cattle", "ml": "പശു" },
+      "b": { "en": "Road works", "ml": "റോഡ് വർക്ക്സ്" },
+      "c": { "en": "Traffic signals", "ml": "ട്രാഫിക് സിഗ്നൽസ്" },
+      "d": { "en": "Crossroads", "ml": "ക്രോസ്സ് റോഡ്" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/cautionary/Warning for cattle on the road_.jpg"
+  },
+  {
+    "id": 44,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Road works", "ml": "റോഡ് വർക്ക്സ്" },
+      "b": { "en": "Traffic signals", "ml": "ട്രാഫിക് സിഗ്നൽസ്" },
+      "c": { "en": "Crossroads", "ml": "ക്രോസ്സ് റോഡ്" },
+      "d": { "en": "Guarded level crossing ahead", "ml": "ഗാർഡഡ് ലെവൽ ക്രോസിംഗ്" }
+    },
+    "answer": "c",
+    "image": "../src/assets/images/cautionary/Road works.jpg"
+  },
+  {
+    "id": 45,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Traffic signals", "ml": "ട്രാഫിക് സിഗ്നൽസ്" },
+      "b": { "en": "Crossroads", "ml": "ക്രോസ്സ് റോഡ്" },
+      "c": { "en": "Guarded level crossing ahead", "ml": "ഗാർഡഡ് ലെവൽ ക്രോസിംഗ്" },
+      "d": { "en": "Unguarded level crossing ahead", "ml": "അൺഗാർഡഡ് ലെവൽ ക്രോസിംഗ്" }
+    },
+    "answer": "c",
+    "image": "../src/assets/images/cautionary/Traffic signals cautionary.jpg"
+  },
+  {
+    "id": 46,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Crossroads", "ml": "ക്രോസ്സ് റോഡ്" },
+      "b": { "en": "Guarded level crossing ahead", "ml": "ഗാർഡഡ് ലെവൽ ക്രോസിംഗ്" },
+      "c": { "en": "Unguarded level crossing ahead", "ml": "അൺഗാർഡഡ് ലെവൽ ക്രോസിംഗ്" },
+      "d": { "en": "Roundabout", "ml": "റൗണ്ട് എബൗട്ട്" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/cautionary/cross roads.jpg"
+  },
+  {
+    "id": 47,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Guarded level crossing ahead", "ml": "ഗാർഡഡ് ലെവൽ ക്രോസിംഗ്" },
+      "b": { "en": "Unguarded level crossing ahead", "ml": "അൺഗാർഡഡ് ലെവൽ ക്രോസിംഗ്" },
+      "c": { "en": "Roundabout", "ml": "റൗണ്ട് എബൗട്ട്" },
+      "d": { "en": "School ahead", "ml": "സ്കൂൾ മുമ്പിൽ" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/cautionary/guraded crossing.jpg"
+  },
+  {
+    "id": 48,
+    "category": "cautionary",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Unguarded level crossing ahead", "ml": "അൺഗാർഡഡ് ലെവൽ ക്രോസിംഗ്" },
+      "b": { "en": "Roundabout", "ml": "റൗണ്ട് എബൗട്ട്" },
+      "c": { "en": "Left hand curve", "ml": "ഇടവശം വളവ്" },
+      "d": { "en": "Right hand curve", "ml": "വലതുവശം വളവ്" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/cautionary/unguarded crossing.jpg"
+  },
+  {
+    "id": 49,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Traffic control signals", "ml": "ട്രാഫിക് നിയന്ത്രണ സിഗ്നലുകൾ" },
+      "b": { "en": "Red light", "ml": "ചുവപ്പ് ലൈറ്റ്" },
+      "c": { "en": "Amber yellow signal light", "ml": "അംബർ/മഞ്ഞ ലൈറ്റ്" },
+      "d": { "en": "Green signal light", "ml": "പച്ച ലൈറ്റ്" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/other-signs/traffic signal.jpg"
+  },
+  {
+    "id": 50,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Red arrow signal", "ml": "ചുവപ്പ് അറോ സിഗ്നൽ" },
+      "b": { "en": "Steady Red X", "ml": "സ്ഥിര ചുവപ്പ് X" },
+      "c": { "en": "Steady Amber X", "ml": "സ്ഥിര അംബർ X" },
+      "d": { "en": "Green arrow signal", "ml": "പച്ച അറോ സിഗ്നൽ" }
+    },
+    "answer": "d",
+    "image": "../src/assets/images/other-signs/Red Peak arrows everywhere.jpg"
+  },
+  {
+    "id": 51,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Hand brake on", "ml": "ഹാൻഡ് ബ്രേക്ക് ഓൺ" },
+      "b": { "en": "Tire pressure", "ml": "ടയർ പ്രഷർ" },
+      "c": { "en": "Traction control", "ml": "ട്രാക്ഷൻ കൺട്രോൾ" },
+      "d": { "en": "Low on fuel", "ml": "ഇന്ധനം കുറവാണ്" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/other-signs/hand brake on.jpg"
+  },
+  {
+    "id": 52,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Dicky is open", "ml": "ഡിക്കി തുറന്നിരിക്കുന്നു" },
+      "b": { "en": "The fog lamp is on", "ml": "ഫോഗ് ലാമ്പ് ഓൺ" },
+      "c": { "en": "Battery charge is low", "ml": "ബാറ്ററി ചാർജ് കുറവാണ്" },
+      "d": { "en": "Head light high beam is on", "ml": "ഹെഡ് ലൈറ്റ് ഹൈ ബീം ഓൺ" }
+    },
+    "answer": "c",
+    "image": "../src/assets/images/other-signs/dicky open.jpg"
+  },
+  {
+    "id": 53,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Engine oil pressure is low", "ml": "എൻജിൻ ഓയിൽ പ്രഷർ കുറവാണ്" },
+      "b": { "en": "No water in the wiper washer", "ml": "വൈപ്പറിൽ വെള്ളം ഇല്ല" },
+      "c": { "en": "Engine temperature is high", "ml": "എൻജിൻ താപനില ഉയർന്നിരിക്കുന്നു" },
+      "d": { "en": "Not wearing a seat belt", "ml": "സീറ്റ് ബെൽറ്റ് ധരിക്കുന്നില്ല" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/other-signs/engine oil pressure is low.jpg"
+  },
+  {
+    "id": 54,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Engine starting failure", "ml": "എൻജിൻ സ്റ്റാർട്ടിങ് പരാജയം" },
+      "b": { "en": "ABS does not work", "ml": "ABS പ്രവർത്തിക്കുന്നില്ല" },
+      "c": { "en": "Airbag not working", "ml": "എയർബാഗ് പ്രവർത്തിക്കുന്നില്ല" },
+      "d": { "en": "Head light high beam is on", "ml": "ഹെഡ് ലൈറ്റ് ഹൈ ബീം ഓൺ" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/other-signs/engine starting failure.jpg"
+  },
+  {
+    "id": 55,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Red light", "ml": "ചുവപ്പ് ലൈറ്റ്" },
+      "b": { "en": "Amber yellow signal light", "ml": "അംബർ/മഞ്ഞ ലൈറ്റ്" },
+      "c": { "en": "Green signal light", "ml": "പച്ച ലൈറ്റ്" },
+      "d": { "en": "Green arrow signal", "ml": "പച്ച അറോ സിഗ്നൽ" }
+      },
+    "answer": "c",
+    "image": "../src/assets/images/other-signs/red light.jpg"
+  },
+  {
+    "id": 56,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Steady Red X", "ml": "സ്ഥിര ചുവപ്പ് X" },
+      "b": { "en": "Steady Amber X", "ml": "സ്ഥിര അംബർ X" },
+      "c": { "en": "Green signal light", "ml": "പച്ച ലൈറ്റ്" },
+      "d": { "en": "Hand brake on", "ml": "ഹാൻഡ് ബ്രേക്ക് ഓൺ" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/other-signs/X red.jpg"
+  },
+  {
+    "id": 57,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Tire pressure", "ml": "ടയർ പ്രഷർ" },
+      "b": { "en": "Traction control", "ml": "ട്രാക്ഷൻ കൺട്രോൾ" },
+      "c": { "en": "Low on fuel", "ml": "ഇന്ധനം കുറവാണ്" },
+      "d": { "en": "Dicky is open", "ml": "ഡിക്കി തുറന്നിരിക്കുന്നു" }
+    },
+    "answer": "c",
+    "image": "../src/assets/images/other-signs/Tire pressure.jpg"
+  },
+  {
+    "id": 58,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "The fog lamp is on", "ml": "ഫോഗ് ലാമ്പ് ഓൺ" },
+      "b": { "en": "Battery charge is low", "ml": "ബാറ്ററി ചാർജ് കുറവാണ്" },
+      "c": { "en": "Engine temperature is high", "ml": "എൻജിൻ താപനില ഉയർന്നിരിക്കുന്നു" },
+      "d": { "en": "Not wearing a seat belt", "ml": "സീറ്റ് ബെൽറ്റ് ധരിക്കുന്നില്ല" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/other-signs/fog lamp.jpg"
+  },
+  {
+    "id": 59,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Head light high beam is on", "ml": "ഹെഡ് ലൈറ്റ് ഹൈ ബീം ഓൺ" },
+      "b": { "en": "Engine starting failure", "ml": "എൻജിൻ സ്റ്റാർട്ടിങ് പരാജയം" },
+      "c": { "en": "ABS does not work", "ml": "ABS പ്രവർത്തിക്കുന്നില്ല" },
+      "d": { "en": "Airbag not working", "ml": "എയർബാഗ് പ്രവർത്തിക്കുന്നില്ല" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/other-signs/head light high beam.jpg"
+  },
+  {
+    "id": 60,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "No water in the wiper washer", "ml": "വൈപ്പറിൽ വെള്ളം ഇല്ല" },
+      "b": { "en": "Engine oil pressure is low", "ml": "എൻജിൻ ഓയിൽ പ്രഷർ കുറവാണ്" },
+      "c": { "en": "Engine temperature is high", "ml": "എൻജിൻ താപനില ഉയർന്നിരിക്കുന്നു" },
+      "d": { "en": "Not wearing a seat belt", "ml": "സീറ്റ് ബെൽറ്റ് ധരിക്കുന്നില്ല" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/other-signs/no water in wiper.jpg"
+  },
+  {
+    "id": 61,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Engine temperature is high", "ml": "എൻജിൻ താപനില ഉയർന്നിരിക്കുന്നു" },
+      "b": { "en": "Not wearing a seat belt", "ml": "സീറ്റ് ബെൽറ്റ് ധരിക്കുന്നില്ല" },
+      "c": { "en": "Engine oil pressure is low", "ml": "എൻജിൻ ഓയിൽ പ്രഷർ കുറവാണ്" },
+      "d": { "en": "Battery charge is low", "ml": "ബാറ്ററി ചാർജ് കുറവാണ്" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/other-signs/engine T is high.jpg"
+  },
+  {
+    "id": 62,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Not wearing a seat belt", "ml": "സീറ്റ് ബെൽറ്റ് ധരിക്കുന്നില്ല" },
+      "b": { "en": "Engine starting failure", "ml": "എൻജിൻ സ്റ്റാർട്ടിങ് പരാജയം" },
+      "c": { "en": "Airbag not working", "ml": "എയർബാഗ് പ്രവർത്തിക്കുന്നില്ല" },
+      "d": { "en": "ABS does not work", "ml": "ABS പ്രവർത്തിക്കുന്നില്ല" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/other-signs/no wearing seatbelt.jpg"
+  },
+  {
+    "id": 63,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Engine starting failure", "ml": "എൻജിൻ സ്റ്റാർട്ടിങ് പരാജയം" },
+      "b": { "en": "ABS does not work", "ml": "ABS പ്രവർത്തിക്കുന്നില്ല" },
+      "c": { "en": "Airbag not working", "ml": "എയർബാഗ് പ്രവർത്തിക്കുന്നില്ല" },
+      "d": { "en": "Head light high beam is on", "ml": "ഹെഡ് ലൈറ്റ് ഹൈ ബീം ഓൺ" }
+    },
+    "answer": "c",
+    "image": "../src/assets/images/other-signs/engine starting failure.jpg"
+  },
+  {
+    "id": 64,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "ABS does not work", "ml": "ABS പ്രവർത്തിക്കുന്നില്ല" },
+      "b": { "en": "Airbag not working", "ml": "എയർബാഗ് പ്രവർത്തിക്കുന്നില്ല" },
+      "c": { "en": "Engine oil pressure is low", "ml": "എൻജിൻ ഓയിൽ പ്രഷർ കുറവാണ്" },
+      "d": { "en": "No water in the wiper washer", "ml": "വൈപ്പറിൽ വെള്ളം ഇല്ല" }
+    },
+    "answer": "b",
+    "image": "../src/assets/images/other-signs/abs not working.jpg"
+  },
+  {
+    "id": 65,
+    "category": "other_signs",
+    "question_en": "What does this sign indicate?",
+    "question_ml": "ഈ സൈൻ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+    "options": {
+      "a": { "en": "Airbag not working", "ml": "എയർബാഗ് പ്രവർത്തിക്കുന്നില്ല" },
+      "b": { "en": "Engine starting failure", "ml": "എൻജിൻ സ്റ്റാർട്ടിങ് പരാജയം" },
+      "c": { "en": "Battery charge is low", "ml": "ബാറ്ററി ചാർജ് കുറവാണ്" },
+      "d": { "en": "Head light high beam is on", "ml": "ഹെഡ് ലൈറ്റ് ഹൈ ബീം ഓൺ" }
+    },
+    "answer": "a",
+    "image": "../src/assets/images/other-signs/air bag not working.jpg"
+  }
+]

@@ -1,0 +1,11 @@
+body{
+    background-color: var(--white);
+    min-height: 100vh;
+    font-family: "Inter", sans-serif;
+}
+:root{
+    --button-bg: #394A7E;
+    --button-bg-hover: #4f5e8d;
+    --white: #fff;
+    --black: #0000;
+}
